@@ -10,12 +10,17 @@ function Skills(){
                    Through this knowledge, together with machine learning have gained skills in data prediction and analysis.
                 </p>
 
-                <div>
-                    <h1> These are some of the projects have done primarily building web applications</h1>
-                    <a href="">frontend Jali connect App </a>
-                    <a href=""> Hotel Management System</a>
-                    <a href=""> Task Manager App</a>
-                    <a href=""> </a>
+                <div className="projects">
+                    <h2> These are some of the projects have done primarily building web applications</h2>
+                    <div className="myproject">
+                        <a href="https://github.com/EffieDev1/hotelmanagement-frontend.git"> Hotel Management System</a>
+                    </div>
+                    <div className="myproject1">
+                        <a href="https://github.com/EffieDev1/taskmanagerweb-backend.git"> Task Manager App</a>
+                    </div>
+                    <div className="myproject2">
+                    <a href="https://github.com/EffieDev1/movieapp.git">API movie App</a>
+                    </div>
                 </div>
             </div>
         </section>

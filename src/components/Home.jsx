@@ -8,8 +8,8 @@ function Home() {
                     <img src={myphoto2} alt="welcome" />
                 </span>
                 <span className="header-sect">
-                    <p className="header1">Hello everyone </p>
-                    <p className="header2"> Welcome to my portfolio.</p>
+                    <p className="header1">Hello Everyone </p>
+                    <p className="header2"> Welcome this is my Portfolio.</p>
                 </span>
             </div>
         </section>
